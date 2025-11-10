@@ -12,5 +12,6 @@
 ## How to Use
 Visit [Gerador de CPF Online](https://geradordecpfonline.com) to generate and validate CPF numbers instantly.
 
-## License
+## [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+
 MIT License
